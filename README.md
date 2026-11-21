@@ -47,3 +47,9 @@ once, then `frame(t)` as a pure function of time - and uses the channel's table 
 letters grouped by how much ink they carry. The storm itself (clouds, rain,
 lightning, thunder timing, the player) is new, but it would not exist without those
 videos. This project is unofficial and not affiliated with or endorsed by the channel.
+
+## Licence
+
+MIT, copyright briefnotion - see `LICENSE`. This covers the code written for this
+project. The table of letters grouped by ink (`LEVELS`) comes from the python.animate
+channel and is not covered by this licence; see Credit above.
